@@ -1,3 +1,2 @@
 first file, file 1.txt
 This line is for new branch, 'branch1'
-this is written post branch1, now trying merge.
