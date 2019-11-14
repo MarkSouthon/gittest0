@@ -1,2 +1,5 @@
 first file, file 1.txt
 This line is for new branch, 'branch1'
+This line was written when checked out in branch1
+another line in branch 1
+again in branch1
