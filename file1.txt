@@ -5,3 +5,7 @@ another line in branch 1
 again in branch1
 This is a new line on August 5 2020
 Here is another line written on August 12 2020
+
+Line added 23-4-24
+
+I want to discard this line 23-4-24
