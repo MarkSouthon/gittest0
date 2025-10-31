@@ -1,0 +1,2 @@
+hello
+text added on desktop, not committed before pulling 
